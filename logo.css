@@ -1,0 +1,43 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(/abigail-keenan-8-s5QuUBtyM-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    box-shadow: 0 8px 87px rgb(0 0 0 / 10%);;
+}
+ .origin .button1 {
+    background-color: gray;
+    padding: 0.5rem;
+    margin: 0.1rem;
+    border-radius: 5px;
+}
+
+ .button2 {
+    background-color: gray;
+    padding: 0.5rem;
+    margin: 0.1rem;
+    border-radius: 5px;
+}
+
+ .reset1 {
+    background-color: papayawhip;
+    padding: 0.5rem;
+    margin: 0.3rem;
+    border-radius: 5px;
+}
+.input1 {
+    padding: 0.5rem 7rem;
+    margin:  0.3rem;
+    border-radius: 7px;
+}
+.began {
+    color: papayawhip;
+    text-align: center;
+     margin: 4rem  6rem;
+}
+h3 {
+    margin-right: 6rem;
+}
+
